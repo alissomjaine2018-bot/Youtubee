@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Radar Aviator 10X - Chuva do TiaguinhoO",
+  "description": "Radar de minutagem ao vivo do Aviator com projeções 10x+, termômetro máxima 50x, minutos fortes por hora e confirmações de somas minuto + segundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
